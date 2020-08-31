@@ -1,6 +1,6 @@
 {
-  "name": "net-snmp",
-  "version": "2.7.1",
+  "name": "@vostro/net-snmp",
+  "version": "2.7.2",
   "description": "JavaScript implementation of the Simple Network Management Protocol (SNMP)",
   "main": "index.js",
   "directories": {
@@ -25,11 +25,15 @@
     {
       "name": "Mark Abrahams",
       "email": "mark@abrahams.co.nz"
+    },
+    {
+      "name": "VostroNet",
+      "email": "dev@vostronet.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/markabrahams/node-net-snmp.git"
+    "url": "git://github.com/vostronet/node-net-snmp.git"
   },
   "keywords": [
     "snmp",
